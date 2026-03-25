@@ -32,5 +32,3 @@ This application is separate from the public-facing submission form and is inten
 - Map view showing report locations
 - Status update workflow for report lifecycle
 - Responsive layout with fixed sidebar and topbar
-
-## Project Structure
