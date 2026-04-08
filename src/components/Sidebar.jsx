@@ -18,6 +18,11 @@ function Sidebar() {
           <NavLink to="/analytics" className="sidebar-link">
             Analytics
           </NavLink>
+
+          <NavLink to="/track" className="sidebar-link">
+            Track a Report (Customer Facing)
+          </NavLink>
+
         </nav>
       </div>
     </div>

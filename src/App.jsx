@@ -4,6 +4,7 @@ import Overview from "./pages/Overview";
 import Reports from "./pages/Reports";
 import Analytics from "./pages/Analytics";
 import ReportDetails from "./pages/ReportDetails";
+import Track from "./pages/Track";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/reports" element={<Reports />} />
         <Route path="/reports/:id" element={<ReportDetails />} />
         <Route path="/analytics" element={<Analytics />} />
+        <Route path="/track" element={<Track />} />
       </Routes>
     </BrowserRouter>
   );
