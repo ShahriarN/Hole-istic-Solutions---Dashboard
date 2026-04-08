@@ -20,7 +20,7 @@ function Sidebar() {
           </NavLink>
 
           <NavLink to="/track" className="sidebar-link">
-            Track a Report (Customer Facing)
+            Track a Report (View as an End User)
           </NavLink>
 
         </nav>
